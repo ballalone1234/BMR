@@ -1,0 +1,32 @@
+<resources>
+    <string-array name="type_array">
+        <item>ไม่ออกกําลังกาย</item>
+        <item>ออกกําลังกาย 1-2 วันต่อสัปดาห</item>
+        <item>ออกกําลังกาย 3-5 วันต่อสัปดาห</item>
+        <item>ออกกําลังกาย 6-7 วันต่อสัปดาห</item>
+        <item>นักกีฬาอาชีพ</item>
+    </string-array>
+    <string name="app_name">บีเอมอาร์</string>
+    <string name="age">อายุ (ปี)</string>
+    <string name="height">ส่วนสูง (ซม.)</string>
+    <string name="weight">น้ำหนัก (กก.)</string>
+    <string name="Male">ชาย</string>
+    <string name="Female">หญิง</string>
+    <string name="exercise">การออกกำลังกาย</string>
+    <string name="gender">เพศ</string>
+    <string name="button_send">คำนวณ</string>
+    <string name="BMR">บีเอมอาร์</string>
+    <string name="Calories">แคลอรี่</string>
+    <string name="share">แชร์</string>
+    <string name="save">เซฟ</string>
+    <string name="clear">เคลีย</string>
+    <string name="his">ประวัติ</string>
+    <string name="setting">setting</string>
+    <string name="hisTitle">History Title</string>
+    <string name="subTitle">Enter History Title</string>
+    <string name="limit">Limit number of history</string>
+    <string name="sublimit">Select the minimum number of history</string>
+    <string name="num_of_limit">num_limit</string>
+    <string name="camera">Take picture (Optional)</string>
+
+</resources>

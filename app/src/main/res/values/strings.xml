@@ -1,0 +1,44 @@
+<resources>
+    <string-array name="type_array">
+        <item>None</item>
+        <item>1to2 days a week</item>
+        <item>3to5 days a week</item>
+        <item>6to7 days a week</item>
+        <item>Athlete (All the time)</item>
+    </string-array>
+    <string name="app_name">BMR</string>
+    <string name="age">Age (Years)</string>
+    <string name="height">Height (Cm.)</string>
+    <string name="weight">Weight (Kg.)</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="exercise">Exercise</string>
+    <string name="gender">Gender</string>
+    <string name="button_send">CALCULATE</string>
+    <string name="BMR">BMR</string>
+    <string name="Calories">Calories</string>
+    <string name="share">SHARE</string>
+    <string name="save">SAVE</string>
+    <string name="clear">CLEAR</string>
+    <string name="his">HISTORY</string>
+    <string name="setting">setting</string>
+    <string name="title_activity_list_setting" translatable="false">list_setting</string>
+    <string name="hisTitle">History Title</string>
+    <string name="subTitle">Enter History Title</string>
+    <string name="limit">Limit number of history</string>
+    <string name="sublimit">Select the minimum number of history</string>
+    <string name="num_of_limit">pref_limit</string>
+    <string name="title_activity_settings" translatable="false">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header" translatable="false">Messages</string>
+    <string name="sync_header" translatable="false">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title" translatable="false">Your signature</string>
+    <string name="reply_title" translatable="false">Default reply action</string>
+    <string name="camera">Take picture (Optional)</string>
+
+    <!-- Sync Preferences -->
+
+</resources>
